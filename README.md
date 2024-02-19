@@ -6,3 +6,5 @@ Para ejecutar el sistema, debes poner:
 
 
 ´´´npn install react´´
+
+sistema de Registro 2 
